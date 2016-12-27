@@ -338,3 +338,7 @@ The sequence diagram for getting the Flight schedule based on departure, arrival
 
 ![State Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/StateDiagram.png)
 
+
+Relational Model (with table names, data types and primary/foreign keys)
+
+![Relational Model](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/RelationalModel.png)
