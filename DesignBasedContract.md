@@ -327,3 +327,9 @@ Since the team I've been working with chose the second use case('Create Booking'
 ![Class Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/ClassDiagramShowTimeSchedule.png)
 
 
+###Design Sequence Diagram
+
+The sequence diagram for getting the Flight schedule based on departure, arrival and date.
+
+![Sequence Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/DesignSequenceDiagram.png)
+
