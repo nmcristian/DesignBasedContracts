@@ -29,7 +29,7 @@ The purpose of the system is to make it easier for several flight carriers and t
 
 ###Use case diagram
 
-![USe Case Diagram](https://github.com/Englund0110/GDSProject/blob/master/Use%20Case%20Model.jpg)
+![USe Case Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/Use%20Case%20Model.jpg)
 
 ###Use case description
 
@@ -59,11 +59,11 @@ The purpose of the system is to make it easier for several flight carriers and t
 
 ###Domain Model
 
-![Class Diagram](https://github.com/Englund0110/GDSProject/blob/master/Documents/Domain%20Model.png)
+![Class Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/Domain%20Model.png)
 
 ###Class diagram
 
-![Class Diagram](https://github.com/Englund0110/GDSProject/blob/master/Class%20Diagram.PNG)
+![Class Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/Class%20Diagram.PNG)
 
 ###Description of domain model
 
@@ -129,7 +129,7 @@ The purpose of the system is to make it easier for several flight carriers and t
 
 ###Package diagram
 
-![Package Diagram](https://github.com/Englund0110/GDSProject/blob/master/Documents/Package.png)
+![Package Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/Package.png)
 
 The package diagram is showing the structure of the diagram, and which packages it is containing. 
 
@@ -141,13 +141,13 @@ The package diagram is showing the structure of the diagram, and which packages 
 
 ###Component diagram
 
-![Component Diagram](https://github.com/Englund0110/GDSProject/blob/master/Documents/Component%20diagram.png)
+![Component Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/Component%20diagram.png)
 
 The component diagram shows which systems is using the repository, and which methods you can call. It is possible to call the four main methods through a web service. The desktop and 3-party solution is calling the repository, who has handling all the bookings. 
 
 ###Architecture structure
 
-![Sequence Diagram](https://github.com/Englund0110/GDSProject/blob/master/Documents/seq2.png)
+![Sequence Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/seq2.png)
 
 ###Implementation
 
@@ -315,5 +315,5 @@ The data storage will be handled in a relational database. Due to the different 
 
 ###E/R Diagram
 
-![Sequence Diagram](https://github.com/Englund0110/GDSProject/blob/master/Documents/ER_model_2_not_transparent.png)
+![Sequence Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/ER_model_2_not_transparent.png)
 
