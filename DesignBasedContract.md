@@ -317,3 +317,13 @@ The data storage will be handled in a relational database. Due to the different 
 
 ![Sequence Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/ER_model_2_not_transparent.png)
 
+
+###Design part - Cristian Nita
+
+Since the team I've been working with chose the second use case('Create Booking'), I will go for the first one('Show time schedule' = 'Show a time schedule between two airports on a given day. The schedule should besides departure and arrival times include information about the carrier and number of free seats on the flights').
+
+###Design Class Diagram
+
+![Class Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/ClassDiagramShowTimeSchedule.png)
+
+
