@@ -333,3 +333,8 @@ The sequence diagram for getting the Flight schedule based on departure, arrival
 
 ![Sequence Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/DesignSequenceDiagram.png)
 
+
+###State Diagram 
+
+![State Diagram](https://github.com/nmcristian/DesignBasedContracts/blob/master/res/StateDiagram.png)
+
